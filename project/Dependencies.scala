@@ -134,7 +134,7 @@ object Dependencies {
       val commonsMath = "org.apache.commons" % "commons-math" % "2.2" % Test
       val commonsIo = "commons-io" % "commons-io" % "2.15.0" % Test
       val commonsCodec = "commons-codec" % "commons-codec" % "1.16.0" % Test
-      val commonsCompress = "org.apache.commons" % "commons-compress" % "1.24.0" % Test
+      val commonsCompress = "org.apache.commons" % "commons-compress" % "1.25.0" % Test
       val junit = "junit" % "junit" % junitVersion % Test
       val httpClient = "org.apache.httpcomponents" % "httpclient" % "4.5.14" % Test
 
